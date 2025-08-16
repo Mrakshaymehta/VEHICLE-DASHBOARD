@@ -4,7 +4,28 @@
 [![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)](https://www.python.org/)  
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github)](https://github.com/Mrakshaymehta/VEHICLE-DASHBOARD)
 
-An interactive **Streamlit dashboard** to analyze and visualize vehicle registration trends across different states in India. This project provides insights into the Indian automotive market from an **investor’s perspective**.
+An interactive Streamlit dashboard providing a detailed analysis of vehicle registrations in India for 2024 and 2025. This project combines category-wise vehicle data and monthly registration trends to enable in-depth exploration of the automotive market segmented by vehicle type and class.
+
+## Features
+
+- **Comprehensive Category Group Analysis (2025 data)**
+  - Breakdown of registrations by vehicle type: Two Wheeler (2W), Three Wheeler (3W), and Four Wheeler (4W).
+  - Detailed insight by vehicle class and category group.
+  - Powerful filters to explore registrations by vehicle type, class, and category group.
+  - Visualizations including bar charts and data tables to support quick insights.
+
+- **Time-Series Analysis of Registrations (2024 & 2025)**
+  - Month-wise registration trends for each vehicle class.
+  - Interactive line charts with monthly data points.
+  - Calculations of quarterly growth metrics including Quarter-over-Quarter (QoQ) and Year-over-Year (YoY) changes.
+  - User controls for viewing specific quarters and filtering vehicle classes.
+
+- **User-Friendly Interface**
+  - Sidebar filters for dynamic data exploration.
+  - Real-time metrics giving quick access to key performance indicators.
+  - Responsive layout suitable for quick business analysis or presentation.
+
+---
 
 🌐 **Live Demo**: [Vehicle Dashboard](https://vehicledashboard.streamlit.app/)  
 📂 **Repository**: [GitHub Repo](https://github.com/Mrakshaymehta/VEHICLE-DASHBOARD)
